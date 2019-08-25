@@ -6,9 +6,9 @@
 
 **test-ESP32CANSettings-on-desktop** - CAN Bit Timing Calculator test on desktop compiler (This can be tested on any C++ compiler) 
 
-src/ESP32CANRegisters - Defines the ESP32 CAN Registers Address.
-src/ESP32ACANSettings.h - CAN Bit time calculator and Settings class
-src/ESP32ACANSettings.cpp - CAN Bit time calculator and Settings class
+src/ESP32CANRegisters - Defines the ESP32 CAN Registers Address.\
+src/ESP32ACANSettings.h - CAN Bit time calculator and Settings class.\
+src/ESP32ACANSettings.cpp - CAN Bit time calculator and Settings class.\
 
 ##### examples : ARDUINO FILES
 
