@@ -1,8 +1,8 @@
 # ESP32-CAN-DRIVER
 
-CAN-DRIVER v1.0
+##CAN-DRIVER v1.0
 
-Initial Release - ESP32 CAN REGISTER DEFINITION
+###Initial Release - ESP32 CAN REGISTER DEFINITION
 
 test-ESP32CANSettings-on-desktop - CAN Bit Timing Calculator test on desktop compiler (This can be tested on any C++ compiler) 
 
